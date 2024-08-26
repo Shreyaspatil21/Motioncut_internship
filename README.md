@@ -21,3 +21,15 @@ Count Words: Calculates and displays the total word count.
 Next Input: Clears the text area for new entries.
 Exit: Closes the application gracefully.
 📊 Results are shown in a dedicated window, making it easy to review your analysis. Enjoy a stylish and effective way to handle your text analysis needs! 🚀💬
+
+## TASK-3
+### 💸 Expense Tracker - Your Personal Finance Assistant 📝
+Welcome to the Expense Tracker! 🚀 This project helps you keep a close eye on your finances with ease and simplicity. Whether you're tracking your daily expenses or summarizing your monthly spending, this tool has got you covered! 🌟
+
+Features 🎯
+Add Expenses 🛒: Quickly add your expenses with details like amount, description, and category.
+Delete Expenses 🗑️: Made a mistake? Easily delete any expense from your list.
+Monthly Summary 📅: Get a detailed overview of your spending for any month with just a click.
+Category Summary 📊: See how much you're spending in different categories like Food, Transportation, and more.
+Full-Screen Display 🖥️: Enjoy a clutter-free, full-screen experience that makes it easy to manage your finances.
+Customizable UI 🎨: A visually appealing interface with a unique theme and custom fonts.
